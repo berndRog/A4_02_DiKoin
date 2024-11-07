@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="personInput">Person hinzufügen</string>
+  <string name="personDetail">Person bearbeiten</string>
+  <string name="peopleList">Personen</string>
+  <string name="firstName">Vorname</string>
+  <string name="lastName">Nachname</string>
+  <string name="email">E-Mail Adresse</string>
+  <string name="phone">Telefonnummer</string>
+  <string name="errorCharMin">2</string>
+  <string name="errorCharMax">16</string>
+  <string name="errorFirstNameTooShort">Vorname zu kurz</string>
+  <string name="errorFirstNameTooLong">Vorname zu lang</string>
+  <string name="errorLastNameTooShort">Nachnme zu kurz</string>
+  <string name="errorLastNameTooLong">Nachname zu lang</string>
+  <string name="errorEmail">E-Mailadresse ist ungültig</string>
+  <string name="errorPhone">Telefonnummer ist ungültig</string>
+  <string name="send">Senden</string>
+  <string name="save">Speichern</string>
+  <string name="back">Zurück</string>
+</resources>
