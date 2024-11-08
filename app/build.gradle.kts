@@ -1,6 +1,4 @@
 import org.gradle.kotlin.dsl.android
-import org.gradle.kotlin.dsl.invoke
-import org.gradle.kotlin.dsl.test
 
 /**
  * Module-level functions

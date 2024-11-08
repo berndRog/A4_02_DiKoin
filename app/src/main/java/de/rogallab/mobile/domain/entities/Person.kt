@@ -1,7 +1,6 @@
 package de.rogallab.mobile.domain.entities
-import java.util.UUID
 import kotlinx.serialization.Serializable
-
+import java.util.UUID
 
 @Serializable
 data class Person(

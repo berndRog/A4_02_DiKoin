@@ -1,12 +1,6 @@
 package de.rogallab.mobile.ui.people
 
-import android.app.Application
-import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.ViewModel
-import de.rogallab.mobile.AppStart
-import de.rogallab.mobile.data.local.IDataStore
-import de.rogallab.mobile.data.repositories.PeopleRepository
-import de.rogallab.mobile.data.local.datastore.DataStore
 import de.rogallab.mobile.domain.IPeopleRepository
 import de.rogallab.mobile.domain.ResultData
 import de.rogallab.mobile.domain.entities.Person

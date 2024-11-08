@@ -2,7 +2,6 @@ package de.rogallab.mobile
 
 import android.app.Application
 import de.rogallab.mobile.domain.utilities.logInfo
-import de.rogallab.mobile.ui.people.PersonValidator
 import org.koin.android.ext.koin.androidContext
 import org.koin.android.ext.koin.androidLogger
 import org.koin.androix.startup.KoinStartup.onKoinStartup
